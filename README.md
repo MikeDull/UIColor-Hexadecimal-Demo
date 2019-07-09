@@ -1,2 +1,2 @@
 # UIColor-Hexadecimal-Extension
-Convert UIColor to Hexadecimal or Convert Hexadecimal in Swift
+Convert UIColor object to Hexadecimal string or Convert Hexadecimal string to UIColor object in Swift
